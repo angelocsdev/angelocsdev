@@ -1,9 +1,9 @@
 ## Oiii, eu sou o Ângelo 👋
 
-<div align="center">
+<div align="justify">
   <a href="https://github.com/angelocsdev">
   <img height="203px" src="https://github-readme-stats.vercel.app/api?username=angelocsdev&show_icons=true&custom_title=Ângelo%20Gabriel's%20Github%20Stats&theme=tokyonight&hide_border=true">
-  <img height="193px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelocsdev&langs_count=8&theme=tokyonight&hide_border=true">
+  <img height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelocsdev&langs_count=8&theme=tokyonight&hide_border=true">
 </div>
   
 <div style="display: inline_block"><br>
