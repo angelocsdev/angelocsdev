@@ -1,4 +1,4 @@
-## Oiii, eu sou o Ângelo 👋
+## Oiii, eu sou o Ângelo 🧐
 
 <div align="center">
   <a href="https://github.com/angelocsdev">
