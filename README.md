@@ -17,18 +17,12 @@
 ##
   
 ##
-  
-<div align="center">
-  
-<img alt="my-quote" src="https://quotes-github-readme.vercel.app/api?quote=Fazer%20as%20coisas%20do%20meu%20jeito%20nem%20sempre%20costumam%20dar%20certo,%20mas%20quando%20dão...%20agradeço%20a%20mim%20mesmo%20por%20confiar%20nos%20meus%20instintos.&type=vertical&theme=tokyonight"/>
-  
-</div>
+
 
 ##
 
 <div>
 
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=angelocsdev&theme=tokyo-night&hide_border=true">
   
 </div>
   
